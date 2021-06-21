@@ -1,0 +1,17 @@
+{
+    "name": "asus/rtcamp",
+    "autoload": {
+        "psr-4": {
+            "Asus\\Rtcamp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arvind2698",
+            "email": "r.arvind007@gmail.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^6.0"
+    }
+}
